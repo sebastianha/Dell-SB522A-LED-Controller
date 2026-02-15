@@ -62,7 +62,7 @@ function setLed(path, ledState) {
 function printUsage() {
   console.log("Dell SB522A Soundbar LED Controller");
   console.log("");
-  console.log("Usage: sb522a_led.js <left> [right]");
+  console.log("Usage: sb522a_led_linux.js <left> [right]");
   console.log("");
   console.log("Arguments:");
   console.log("  left   Left LED state: off, green, green-blinking");
