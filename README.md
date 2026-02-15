@@ -14,6 +14,8 @@ I need to investigate why it behaves differently.
 
 ### Usage Linux
 
+Note: You need to be root to have access to the device
+
 ```
 Dell SB522A Soundbar LED Controller
 
